@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7391f6546f428a2f7aa8",
-    "url": "/portfolio/static/css/main.304e9291.chunk.css"
+    "revision": "baf1dc14e99a83aaf37b",
+    "url": "/portfolio/static/css/main.fe9b2a68.chunk.css"
   },
   {
-    "revision": "7391f6546f428a2f7aa8",
-    "url": "/portfolio/static/js/main.7391f654.chunk.js"
+    "revision": "baf1dc14e99a83aaf37b",
+    "url": "/portfolio/static/js/main.baf1dc14.chunk.js"
   },
   {
     "revision": "e14178d01df124c78b4f",
@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/color-sharp2.42c4dbf6.png"
   },
   {
-    "revision": "63911e8535278ced52b8a37e819f6f5d",
-    "url": "/portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
-  },
-  {
     "revision": "4ea3794d631bedab7999678f46b0a162",
     "url": "/portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
+  },
+  {
+    "revision": "63911e8535278ced52b8a37e819f6f5d",
+    "url": "/portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
   },
   {
     "revision": "386f05946a76935fcabf319affff517a",
@@ -180,19 +180,19 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/contact-img.02062751.svg"
   },
   {
-    "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
-    "url": "/portfolio/static/media/revicons.04eb8fc5.woff"
-  },
-  {
     "revision": "17629a5dfe0d3c3946cf401e1895f091",
     "url": "/portfolio/static/media/revicons.17629a5d.ttf"
+  },
+  {
+    "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
+    "url": "/portfolio/static/media/revicons.04eb8fc5.woff"
   },
   {
     "revision": "2feb69ccb596730c72920c6ba3e37ef8",
     "url": "/portfolio/static/media/revicons.2feb69cc.eot"
   },
   {
-    "revision": "e9a559bed4c8d220813d707253358d97",
+    "revision": "00da5c895a3fec401654cd4a8ab5f498",
     "url": "/portfolio/index.html"
   }
 ];

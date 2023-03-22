@@ -66,8 +66,8 @@
 
 .main img {
     height: auto;
-    width: 33%;
-    max-width: 100%;
+    width: 30%;
+    max-width: 33%;
     border-radius: 25px;
     /* aspect-ratio: 1/1.2; */
 }

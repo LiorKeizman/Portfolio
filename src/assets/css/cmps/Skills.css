@@ -1,0 +1,98 @@
+.skill {
+    padding: 0 0 50px 0;
+    position: relative;
+  }
+  .skill-bx {
+    background: #151515;
+    border-radius: 64px;
+    text-align: center;
+    padding: 60px 50px;
+    margin-top: -60px;
+  }
+  .skill h2 {
+      font-size: 45px;
+      font-weight: 700;
+  }
+  .skill p {
+      color: #B8B8B8;
+      font-size: 18px;
+      letter-spacing: 0.8px;
+      line-height: 1.5em;
+      margin: 14px 0 75px 0;
+  }
+  /* .item img{
+    width: 50%;
+  } */
+  .skills-slider {
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+  }
+  .skills-slider .item img {
+    width: 60%;
+    height: 100%;
+    margin: 0 auto 15px auto;
+  }
+  .skills-slider .diff img {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto 15px auto;
+  }
+  .skills-slider .diff {
+    width: 100%;
+    translate: 0% 50%;
+    margin: 0 auto 15px auto;
+  }
+  .skills-slider .npm img {
+    width: 60%;
+    height: 100%;
+    margin: 0 auto 30px auto;
+  }
+  .skills-slider .exp img {
+    width: 85%;
+    height: 100%;
+    margin: 0 auto 15px auto;
+  }
+  .skills-slider .exp  {
+    width: 60%;
+    height: 78%;
+    margin: 0 auto 30px auto;
+  }
+  .skills-slider .npm  {
+    translate: 0% 50%;
+  }
+  .background-image-left {
+    top: 28%;
+    position: absolute;
+    bottom: 0;
+    width: 40%;
+    z-index: -4;
+  }
+  .item:hover{
+   width: 100%;
+   /* height: 72%; */
+   transform: translateY(5px);
+   color: rgb(78, 31, 78);
+  }
+  @media screen and (max-width:650px) {
+    
+    .skill-bx{
+      padding: 30px 20px ;
+    }
+    .skill h2{
+      font-size: 40px;
+    }
+    .skill p{
+      font-size: 14px ;
+    }
+    .skills-slider .item img{
+      width: 45% ;
+    }
+    .react-multiple-carousel__arrow--left{
+      left: 0% !important;
+    }
+    .react-multiple-carousel__arrow--right{
+      right: 0% !important;
+    }
+     
+  }

@@ -56,20 +56,20 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
   {
-    "revision": "63911e8535278ced52b8a37e819f6f5d",
-    "url": "/portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
-  },
-  {
     "revision": "386f05946a76935fcabf319affff517a",
     "url": "/portfolio/static/media/CentraNo2-Book.386f0594.ttf"
   },
   {
-    "revision": "5f3ca49706055342e92708c7dd31849f",
-    "url": "/portfolio/static/media/banner-bg.5f3ca497.png"
+    "revision": "63911e8535278ced52b8a37e819f6f5d",
+    "url": "/portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
   },
   {
     "revision": "e9228c17c13a87653f1b8ed01a3ff306",
     "url": "/portfolio/static/media/footer-bg.e9228c17.png"
+  },
+  {
+    "revision": "5f3ca49706055342e92708c7dd31849f",
+    "url": "/portfolio/static/media/banner-bg.5f3ca497.png"
   },
   {
     "revision": "d9b6acf1efdc6e379fc25620647c76d9",
@@ -180,16 +180,16 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/contact-img.02062751.svg"
   },
   {
-    "revision": "2feb69ccb596730c72920c6ba3e37ef8",
-    "url": "/portfolio/static/media/revicons.2feb69cc.eot"
+    "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
+    "url": "/portfolio/static/media/revicons.04eb8fc5.woff"
   },
   {
     "revision": "17629a5dfe0d3c3946cf401e1895f091",
     "url": "/portfolio/static/media/revicons.17629a5d.ttf"
   },
   {
-    "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
-    "url": "/portfolio/static/media/revicons.04eb8fc5.woff"
+    "revision": "2feb69ccb596730c72920c6ba3e37ef8",
+    "url": "/portfolio/static/media/revicons.2feb69cc.eot"
   },
   {
     "revision": "c3c602f02b5a4844878161406ed43523",

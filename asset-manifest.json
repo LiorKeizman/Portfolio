@@ -1,7 +1,7 @@
 {
-  "main.css": "/portfolio/static/css/main.fe9b2a68.chunk.css",
-  "main.js": "/portfolio/static/js/main.baf1dc14.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.baf1dc14.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.3dd79172.chunk.css",
+  "main.js": "/portfolio/static/js/main.2740b39c.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.2740b39c.chunk.js.map",
   "static/js/1.e14178d0.chunk.js": "/portfolio/static/js/1.e14178d0.chunk.js",
   "static/js/1.e14178d0.chunk.js.map": "/portfolio/static/js/1.e14178d0.chunk.js.map",
   "static/css/2.16ffcf16.chunk.css": "/portfolio/static/css/2.16ffcf16.chunk.css",
@@ -16,8 +16,8 @@
   "static/media/nav-icon5.svg": "/portfolio/static/media/nav-icon5.7c5eedf9.svg",
   "static/media/telephone.svg": "/portfolio/static/media/telephone.5c244b34.svg",
   "static/media/color-sharp2.png": "/portfolio/static/media/color-sharp2.42c4dbf6.png",
-  "static/media/App.css": "/portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf",
-  "static/media/global.css": "/portfolio/static/media/footer-bg.e9228c17.png",
+  "static/media/App.css": "/portfolio/static/media/CentraNo2-Book.386f0594.ttf",
+  "static/media/global.css": "/portfolio/static/media/banner-bg.5f3ca497.png",
   "static/media/my-img1.jpg": "/portfolio/static/media/my-img1.d9b6acf1.jpg",
   "static/media/header-img.svg": "/portfolio/static/media/header-img.bd1d660d.svg",
   "static/media/color-sharp.png": "/portfolio/static/media/color-sharp.d6409477.png",
@@ -47,8 +47,8 @@
   "static/media/contact-img.svg": "/portfolio/static/media/contact-img.02062751.svg",
   "static/media/styles.css": "/portfolio/static/media/revicons.2feb69cc.eot",
   "static/css/2.16ffcf16.chunk.css.map": "/portfolio/static/css/2.16ffcf16.chunk.css.map",
-  "static/css/main.fe9b2a68.chunk.css.map": "/portfolio/static/css/main.fe9b2a68.chunk.css.map",
+  "static/css/main.3dd79172.chunk.css.map": "/portfolio/static/css/main.3dd79172.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.a08cbfad7eaa0f506d6b445e7c4fc568.js": "/portfolio/precache-manifest.a08cbfad7eaa0f506d6b445e7c4fc568.js",
+  "precache-manifest.219136ac5a448b3aff5084e7414d289c.js": "/portfolio/precache-manifest.219136ac5a448b3aff5084e7414d289c.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }

@@ -1,5 +1,5 @@
 {
-  "homepage":"http://liorkeizman.github.io/portfolio",
+  "homepage": "http://liorkeizman.github.io/portfolio",
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -30,6 +30,8 @@
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "gh-pages-clean": "rimraf node_modules/.cache/gh-pages",
+    "deploy-status": "gh-pages-view",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -53,6 +55,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "rimraf": "^4.4.1"
   }
 }

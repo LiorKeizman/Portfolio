@@ -147,4 +147,23 @@
   .proj-imgbx{
     left: 0%;
   }
+  .proj-txtx h4 {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    line-height: 1.1em;
+  }
+  .proj-txtx span {
+    font-size: 14px;
+    
+  }
+  .proj-txtx p {
+    margin-bottom: 10px;
+  }
+  .proj-txtx a {
+    font-size: 18px;
+  }
+  .project .nav.nav-pills .nav-link{
+    font-size: 14px !important;
+  }
 }

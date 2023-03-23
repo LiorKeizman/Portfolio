@@ -21,9 +21,9 @@ export const Footer = () => {
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
               <a href="https://www.linkedin.com/in/lior-keizman-7b99a8252/"><img src={navIcon1} alt="Icon" /></a>
-              <a href="tel:0546365833"><img src={navIcon6} alt="" /></a>
               <a href="https://github.com/LiorKeizman"><img src={navIcon5} alt="Icon" /></a>
               <a href="https://www.instagram.com/lior_keizman/"><img src={navIcon3} alt="Icon" /></a>
+              <a href="tel:0546365833"><img src={navIcon6} alt="" /></a>
               <a rel="noopener noreferrer" target="_blank" href="mailto:lior.keizman1@gmail.com"
                   title="Lior.Keizman@gmail.com"><img src={navIcon4} alt="" /></a>
             </div>

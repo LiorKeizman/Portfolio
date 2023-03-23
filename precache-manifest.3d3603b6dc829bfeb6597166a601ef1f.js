@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2740b39c4ad5995daa41",
+    "revision": "2c683acfabf4a5a3fb9b",
     "url": "/portfolio/static/css/main.3dd79172.chunk.css"
   },
   {
-    "revision": "2740b39c4ad5995daa41",
-    "url": "/portfolio/static/js/main.2740b39c.chunk.js"
+    "revision": "2c683acfabf4a5a3fb9b",
+    "url": "/portfolio/static/js/main.2c683acf.chunk.js"
   },
   {
     "revision": "e14178d01df124c78b4f",
@@ -56,20 +56,20 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/CentraNo2-Bold.4ea3794d.ttf"
   },
   {
-    "revision": "63911e8535278ced52b8a37e819f6f5d",
-    "url": "/portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
-  },
-  {
     "revision": "386f05946a76935fcabf319affff517a",
     "url": "/portfolio/static/media/CentraNo2-Book.386f0594.ttf"
   },
   {
-    "revision": "e9228c17c13a87653f1b8ed01a3ff306",
-    "url": "/portfolio/static/media/footer-bg.e9228c17.png"
+    "revision": "63911e8535278ced52b8a37e819f6f5d",
+    "url": "/portfolio/static/media/CentraNo2-Medium.63911e85.ttf"
   },
   {
     "revision": "5f3ca49706055342e92708c7dd31849f",
     "url": "/portfolio/static/media/banner-bg.5f3ca497.png"
+  },
+  {
+    "revision": "e9228c17c13a87653f1b8ed01a3ff306",
+    "url": "/portfolio/static/media/footer-bg.e9228c17.png"
   },
   {
     "revision": "d9b6acf1efdc6e379fc25620647c76d9",
@@ -180,6 +180,10 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/contact-img.02062751.svg"
   },
   {
+    "revision": "2feb69ccb596730c72920c6ba3e37ef8",
+    "url": "/portfolio/static/media/revicons.2feb69cc.eot"
+  },
+  {
     "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
     "url": "/portfolio/static/media/revicons.04eb8fc5.woff"
   },
@@ -188,11 +192,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/revicons.17629a5d.ttf"
   },
   {
-    "revision": "2feb69ccb596730c72920c6ba3e37ef8",
-    "url": "/portfolio/static/media/revicons.2feb69cc.eot"
-  },
-  {
-    "revision": "036d6308f605411b64e5624a7954d90c",
+    "revision": "4cd96b2df560c87fa7d7721b06b04fae",
     "url": "/portfolio/index.html"
   }
 ];
